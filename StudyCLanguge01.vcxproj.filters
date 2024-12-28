@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter08.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Chatper09.c">
       <Filter>소스 파일</Filter>
     </ClCompile>

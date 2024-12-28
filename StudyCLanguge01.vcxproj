@@ -128,7 +128,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter08.c" />
     <ClCompile Include="Chatper09.c" />
     <ClCompile Include="Chatper10.c" />
     <ClCompile Include="Chatper11.c" />
