@@ -19,7 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter25.c" />
+    <ClCompile Include="Chapter27Main.c" />
+    <ClCompile Include="Chapter27Func.c" />
+    <ClCompile Include="Chapter27Num.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
