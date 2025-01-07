@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter27Main.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chapter27Num.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chapter27Func.c">
+    <ClCompile Include="Chapter11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
